@@ -1,6 +1,6 @@
 # Telefon Rehberi Uygulaması
 
-Bu proje, C# dilinde konsol tabanlı bir telefon rehberi uygulamasını içermektedir.
+C# dilinde konsol tabanlı bir telefon rehberi uygulamasını içermektedir.
 
 ## Telefon Numarası Kaydet
 
