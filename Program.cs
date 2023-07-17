@@ -57,11 +57,11 @@ namespace TelefonRehberi
 
         static void VarsayilanRehberiOlustur()
         {
-            Kisi kisi1 = new Kisi("İlkyardım", "1234567890");
-            Kisi kisi2 = new Kisi("İtfaiye", "2345678901");
-            Kisi kisi3 = new Kisi("Polis", "3456789012");
-            Kisi kisi4 = new Kisi("Belediye", "4567890123");
-            Kisi kisi5 = new Kisi("Afad", "5678901234");
+            Kisi kisi1 = new Kisi("İlkyardım", "112");
+            Kisi kisi2 = new Kisi("İtfaiye", "110");
+            Kisi kisi3 = new Kisi("Polis", "155");
+            Kisi kisi4 = new Kisi("Belediye", "153");
+            Kisi kisi5 = new Kisi("Afad", "122");
 
             rehber.Add(kisi1);
             rehber.Add(kisi2);
