@@ -39,4 +39,3 @@ C# dilinde konsol tabanlı bir telefon rehberi uygulamasını içermektedir.
     - Her bir kişi için `kisi.Ad` ve `kisi.Telefon` özelliklerini ekrana yazdırın.
 5. Eğer `bulunanlar` listenin eleman sayısı 0 ise:
     - "Kişi bulunamadı!" mesajını ekrana yazdırın.
-
