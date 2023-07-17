@@ -4,16 +4,12 @@ C# dilinde konsol tabanlı bir telefon rehberi uygulamasını içermektedir.
 
 ## Telefon Numarası Kaydet
 
-Yeni bir telefon numarası kaydetmek için aşağıdaki adımları izleyin:
-
 1. Kullanıcıdan kişinin adını ve telefon numarasını alın.
 2. `Kisi` sınıfından bir örnek oluşturun ve alınan adı ve telefon numarasını parametre olarak geçirin.
 3. Oluşturulan kişi örneğini `rehber` listesine ekleyin.
 4. "Kişi rehbere kaydedildi." mesajını ekrana yazdırın.
 
 ## Telefon Numarası Sil
-
-Bir telefon numarasını silmek için aşağıdaki adımları izleyin:
 
 1. Kullanıcıdan silmek istediği kişinin adını alın.
 2. `rehber.Find` metodunu kullanarak kişiyi rehberde bulun.
@@ -25,8 +21,6 @@ Bir telefon numarasını silmek için aşağıdaki adımları izleyin:
 
 ## Telefon Numarası Güncelle
 
-Bir telefon numarasını güncellemek için aşağıdaki adımları izleyin:
-
 1. Kullanıcıdan güncellemek istediği kişinin adını alın.
 2. `rehber.Find` metodunu kullanarak kişiyi rehberde bulun.
 3. Eğer kişi bulunursa:
@@ -36,8 +30,6 @@ Bir telefon numarasını güncellemek için aşağıdaki adımları izleyin:
 4. Eğer kişi bulunamazsa:
     - "Kişi bulunamadı!" mesajını ekrana yazdırın.
 ## Rehberde Ara
-
-Rehberde bir kişi aramak için aşağıdaki adımları takip edin:
 
 1. Kullanıcıdan aranacak kişinin adını alın.
 2. `rehber.FindAll` metodunu kullanarak rehberdeki kişileri adına göre filtreleyin.
